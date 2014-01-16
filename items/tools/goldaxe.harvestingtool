@@ -1,0 +1,19 @@
+{
+  "itemName" : "goldaxe",
+  "inventoryIcon" : "goldaxeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "inspectionKind" : "tool",
+  "description" : "Gold Axe. Chop chop!",
+  "shortdescription" : "Gold Axe",
+  "largeImage" : "goldaxebig.png",
+  "image" : "goldaxe.png",
+  "handPosition" : [-4, -8],
+  "fireTime" : 0.22,
+  "blockRadius" : 2,
+  "altBlockRadius" : 1,
+  "damage" : 75,
+  "twoHanded" : false,
+  "strikeSound" : "/sfx/tools/pickaxe_hit.wav"
+}

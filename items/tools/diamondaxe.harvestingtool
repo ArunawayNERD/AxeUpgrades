@@ -1,0 +1,19 @@
+{
+  "itemName" : "diamondaxe",
+  "inventoryIcon" : "diamondaxeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "inspectionKind" : "tool",
+  "description" : "Diamond Axe. Chop chop!",
+  "shortdescription" : "Diamond Axe",
+  "largeImage" : "diamondaxebig.png",
+  "image" : "diamondaxe.png",
+  "handPosition" : [-4, -8],
+  "fireTime" : 0.20,
+  "blockRadius" : 2,
+  "altBlockRadius" : 1,
+  "damage" : 150,
+  "twoHanded" : false,
+  "strikeSound" : "/sfx/tools/pickaxe_hit.wav"
+}

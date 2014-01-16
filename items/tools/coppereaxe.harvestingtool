@@ -1,0 +1,19 @@
+{
+  "itemName" : "copperaxe",
+  "inventoryIcon" : "copperaxeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "inspectionKind" : "tool",
+  "description" : "Copper Axe. Chop chop!",
+  "shortdescription" : "copper Axe",
+  "largeImage" : "copperaxebig.png",
+  "image" : "copperaxe.png",
+  "handPosition" : [-4, -8],
+  "fireTime" : 0.24,
+  "blockRadius" : 2,
+  "altBlockRadius" : 1,
+  "damage" : 35,
+  "twoHanded" : false,
+  "strikeSound" : "/sfx/tools/pickaxe_hit.wav"
+}

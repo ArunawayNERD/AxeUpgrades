@@ -1,0 +1,19 @@
+{
+  "itemName" : "platinumaxe",
+  "inventoryIcon" : "platinumaxeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "inspectionKind" : "tool",
+  "description" : "Platinum Axe. Chop chop!",
+  "shortdescription" : "Platinum Axe",
+  "largeImage" : "platinumaxebig.png",
+  "image" : "platinumaxe.png",
+  "handPosition" : [-4, -8],
+  "fireTime" : 0.21,
+  "blockRadius" : 2,
+  "altBlockRadius" : 1,
+  "damage" : 100,
+  "twoHanded" : false,
+  "strikeSound" : "/sfx/tools/pickaxe_hit.wav"
+}
